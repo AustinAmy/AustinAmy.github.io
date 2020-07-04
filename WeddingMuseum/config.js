@@ -17,7 +17,7 @@ var config = {
 
             location: {
                 center: [-97.73744, 30.281],
-                zoom: 15,
+                zoom: 20,
                 pitch: 45,
                 bearing: -40
                 //original minus forty
@@ -31,7 +31,7 @@ var config = {
             description: 'The Jones Center has capacity for 250. Cost starts at $2,900. For more information, call (512) 458-8191 ext. 255. Photo by Laguna Jones.',
             location: {
                 center: [-97.74269, 30.26958],
-                zoom: 15,
+                zoom: 20,
                 pitch: 45,
                 bearing: -100
                 //original minus one hundred
@@ -44,7 +44,7 @@ var config = {
               description: 'The Bullock has several floors available for weddings with a capacity for 300. The cost to reserve the ground floor is $4,500. For more information, call (512) 936-4632. Photo by WhisperToMe.',
               location: {
                   center: [-97.73915, 30.2803],
-                  zoom: 15,
+                  zoom: 20,
                   pitch: 45,
                   bearing: 40
                 //original minus forty

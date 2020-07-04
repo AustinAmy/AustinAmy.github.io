@@ -19,7 +19,7 @@ var config = {
                 center: [-97.73744, 30.281],
                 zoom: 15,
                 pitch: 45,
-                bearing: 0
+                bearing: -40
                 //original minus forty
             },
 
@@ -33,7 +33,7 @@ var config = {
                 center: [-97.74269, 30.26958],
                 zoom: 15,
                 pitch: 45,
-                bearing: 0
+                bearing: -100
                 //original minus one hundred
             },
           },
@@ -46,7 +46,7 @@ var config = {
                   center: [-97.73915, 30.2803],
                   zoom: 15,
                   pitch: 45,
-                  bearing: 0
+                  bearing: 40
                 //original minus forty
               },
 

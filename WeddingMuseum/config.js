@@ -21,7 +21,8 @@ var config = {
                 pitch: 45,
                 bearing: -40
             },
-
+            onChapterEnter: [],
+            onChapterExit: []
         },
         {
             id: 'second-museum',
@@ -34,6 +35,8 @@ var config = {
                 pitch: 45,
                 bearing: -100
             },
+            onChapterEnter: [],
+            onChapterExit: []
           },
           {
               id: 'third-museum',
@@ -46,6 +49,8 @@ var config = {
                   pitch: 45,
                   bearing: -40
               },
+            onChapterEnter: [],
+            onChapterExit: []
 
         }
     ]

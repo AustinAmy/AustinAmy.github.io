@@ -21,7 +21,8 @@ var config = {
                 bearing: -40
                 //original minus forty
             },
-
+            onChapterEnter: [],
+            onChapterExit:[]
         },
         {
             id: 'second-museum',
@@ -35,6 +36,8 @@ var config = {
                 bearing: -100
                 //original minus one hundred
             },
+            onChapterEnter: [],
+            onChapterExit:[]
           },
           {
               id: 'third-museum',
@@ -48,6 +51,8 @@ var config = {
                   bearing: 40
                 //original minus forty
               },
+            onChapterEnter: [],
+            onChapterExit:[]
 
         }
     ]

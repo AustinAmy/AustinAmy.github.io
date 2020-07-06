@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/vizdr/ckbjust9z05a71il7metsarae?fresh=true',
-    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tjMmp3YnRpMDBweDJ6cXZvOGtqOTMzdSJ9.UabHGstx3fzde1pJiv4aAg',
+    style: 'mapbox://styles/vizdr/ckbjust9z05a71il7metsarae',
+    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tjMml5MGJ5MTNycDMwb2V0OTNwenF2YyJ9.1najAFzSkPMV3TweO49p6g',
     showMarkers: false,
     theme: 'light',
     alignment: 'left',
@@ -14,15 +14,15 @@ var config = {
             title: 'Blanton Museum of Art',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg/220px-University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg',
             description: 'The Blanton has capacity for 150. Cost starts at $5,000. For more information, call (512) 475-6516. Photo by Michael Barera.',
+
             location: {
                 center: [-97.73744, 30.281],
                 zoom: 17,
                 pitch: 45,
                 bearing: -40
-                //original minus forty
             },
-            onChapterEnter: [],
-            onChapterExit:[]
+            OnChapterEnter:[],
+            OnChapterExit: []
         },
         {
             id: 'second-museum',
@@ -34,10 +34,9 @@ var config = {
                 zoom: 17,
                 pitch: 45,
                 bearing: -100
-                //original minus one hundred
             },
-            onChapterEnter: [],
-            onChapterExit:[]
+            OnChapterEnter:[],
+            OnChapterExit: []
           },
           {
               id: 'third-museum',
@@ -48,12 +47,10 @@ var config = {
                   center: [-97.73915, 30.2803],
                   zoom: 17,
                   pitch: 45,
-                  bearing: 40
-                //original minus forty
+                  bearing: -40
               },
-            onChapterEnter: [],
-            onChapterExit:[]
-
+            OnChapterEnter:[],
+            OnChapterExit: []
         }
     ]
 };

@@ -13,7 +13,6 @@ var config = {
             id: 'first-museum',
             title: 'Blanton Museum of Art',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg/220px-University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg',
-            description: 'The Blanton has capacity for 150. Cost starts at $5,000. For more information, call (512) 475-6516. Photo by Michael Barera.',
             location: {
                 center: [-97.73744, 30.281],
                 zoom: 17,

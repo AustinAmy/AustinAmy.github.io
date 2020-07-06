@@ -9,7 +9,7 @@ var config = {
     byline: 'By Amy Wu',
     footer: 'Data Sources: The Knot.com; Blanton Museum of Art; Jones Center - The Contemporary Austin; Bullock Texas State History Museum; Mapbox',
     chapters: [
-        {
+       {
             id: 'first-museum',
             title: 'Blanton Museum of Art',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg/220px-University_of_Texas_at_Austin_August_2019_41_%28Jack_S._Blanton_Museum_of_Art%29.jpg',
@@ -21,8 +21,7 @@ var config = {
                 pitch: 45,
                 bearing: -40
             },
-            OnChapterEnter:[],
-            OnChapterExit: []
+
         },
         {
             id: 'second-museum',
@@ -35,8 +34,6 @@ var config = {
                 pitch: 45,
                 bearing: -100
             },
-            OnChapterEnter:[],
-            OnChapterExit: []
           },
           {
               id: 'third-museum',
@@ -49,8 +46,7 @@ var config = {
                   pitch: 45,
                   bearing: -40
               },
-            OnChapterEnter:[],
-            OnChapterExit: []
+
         }
     ]
 };

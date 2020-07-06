@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/vizdr/ckbjust9z05a71il7metsarae?fresh=true',
-    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tjMml5MGJ5MTNycDMwb2V0OTNwenF2YyJ9.1najAFzSkPMV3TweO49p6g',
-    showMarkestyle: 'mapbox://styles/vizdr/ckbjust9z05a71il7metsarae?fresh=true',rs: false,
+    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tjMmp3YnRpMDBweDJ6cXZvOGtqOTMzdSJ9.UabHGstx3fzde1pJiv4aAg',
+    showMarkers: false,
     theme: 'light',
     alignment: 'left',
     title: 'The Three Best Museums in Austin for an Indoor Wedding',

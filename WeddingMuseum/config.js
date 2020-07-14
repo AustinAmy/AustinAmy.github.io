@@ -42,7 +42,7 @@ var config = {
               id: 'third-museum',
               title: 'Bullock Texas State History Museum',
               image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/BobBullockMuseumAustinTX.JPG/220px-BobBullockMuseumAustinTX.JPG',
-              description: 'The Bullock has several floors available for weddings with a capacity for 300. The cost to reserve the ground floor is $4,500. For more information, call (512) 936-4632. Photo by WhisperToMe.',
+              description: 'This is the museum that we chose. The Bullock has several floors available for weddings with a capacity for 300. The cost to reserve the ground floor is $4,500. For more information, call (512) 936-4632. Photo by WhisperToMe.',
               location: {
                   center: [-97.73915, 30.2803],
                   zoom: 17,

@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/vizdr/ckemwrhhv0mka1akef8twdhyn?fresh=true',
-    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tjMmp3YnRpMDBweDJ6cXZvOGtqOTMzdSJ9.UabHGstx3fzde1pJiv4aAg',
+    accessToken: 'pk.eyJ1Ijoidml6ZHIiLCJhIjoiY2tlbXg5azJiMDJkdzJ5bGdwamxtNGcxdSJ9.4AOIkZvoODqHwb--4IeG1g',
     showMarkers: false,
     theme: 'light',
     alignment: 'left',

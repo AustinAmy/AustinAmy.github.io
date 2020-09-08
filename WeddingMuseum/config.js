@@ -7,7 +7,7 @@ var config = {
     title: 'The Three Best Museums in Austin for an Indoor Wedding',
     subtitle: 'During the summer, the temperature in Austin commonly tops 100 degrees. One affordable way to host your wedding indoors is to host it in a museum. While shopping for my own wedding venue, I narrowed my search to these three museums, based on their capacity and cost.',
     byline: 'By Amy Wu',
-    footer: 'Data Sources: <a href="https://www.theknot.com/marketplace/wedding-reception-venues-austin-tx/museum">The Knot</a>; <a href="https://blantonmuseum.org/2016/01/choosing-the-blanton-museum-for-your-special-day-2/">Blanton Museum of Art</a>; <a href="http://thecontemporaryaustin.org/wp-content/uploads/2019/09/Jones_Center_Site_Rentals_2020.pdf">Jones Center - The Contemporary Austin</a>; <a href="https://www.thestoryoftexas.com/upload/files/Bullock-Museum-Rental-Rates-2020.pdf">Bullock Texas State History Museum</a>; <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>',
+    footer: 'Data Sources: <a href="https://www.theknot.com/marketplace/wedding-reception-venues-austin-tx/museum/">The Knot</a>; <a href="https://blantonmuseum.org/2016/01/choosing-the-blanton-museum-for-your-special-day-2/">Blanton Museum of Art</a>, <a href="http://thecontemporaryaustin.org/wp-content/uploads/2019/09/Jones_Center_Site_Rentals_2020.pdf">Jones Center - The Contemporary Austin</a>; <a href="https://www.thestoryoftexas.com/upload/files/Bullock-Museum-Rental-Rates-2020.pdf">Bullock Texas State History Museum</a>; <a href="https://demos.mapbox.com/scrollytelling/">Mapbox</a>',
     chapters: [
        {
             id: 'first-museum',
